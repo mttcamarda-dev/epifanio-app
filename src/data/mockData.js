@@ -21,13 +21,13 @@ export const notizie = [
   },
   {
     id: 3,
-    titolo: "Nuovo laboratorio STEM inaugurato",
+    titolo: "Orari segreterie della scuola",
     sommario:
-      "Grazie ai fondi PNRR, la scuola si dota di un laboratorio all'avanguardia per le materie scientifiche e tecnologiche.",
+      "Gli uffici di segreteria del nostro istituto saranno aperti al pubblico il lunedì e il giovedì.",
     data: "2026-01-20",
-    immagine: "https://images.unsplash.com/photo-1562774053-701939374585?w=800&q=80",
+    immagine: "https://images.unsplash.com/photo-1568667256549-094345857637?w=800&q=80",
     contenuto:
-      "È stato inaugurato il nuovo laboratorio STEM dell'istituto, dotato di stampanti 3D, kit di robotica e postazioni per la programmazione. Un investimento importante per il futuro dei nostri studenti.",
+      "Si comunica che gli uffici di segreteria del nostro istituto saranno aperti al pubblico nei seguenti orari:\n\n• lunedì dalle 08.30 alle 11.30\n• giovedì dalle 11.00 alle 14.00",
   },
   {
     id: 4,
