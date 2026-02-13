@@ -1,0 +1,133 @@
+.chi-siamo-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-bottom: var(--space-2xl);
+}
+
+.chi-siamo-section {
+  margin-bottom: var(--space-3xl);
+}
+
+.chi-siamo-section p {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--color-text-light);
+  margin-bottom: var(--space-md);
+}
+
+/* Indirizzi grid */
+.indirizzi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--space-lg);
+}
+
+.indirizzo-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-xl);
+  text-align: center;
+  transition: box-shadow var(--transition), border-color var(--transition);
+}
+
+.indirizzo-card:hover {
+  box-shadow: var(--shadow-md);
+  border-color: var(--color-accent);
+}
+
+.indirizzo-card__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  background: rgba(26, 58, 92, 0.08);
+  color: var(--color-primary);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-md);
+}
+
+.indirizzo-card h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: var(--space-sm);
+  color: var(--color-text);
+}
+
+.indirizzo-card p {
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  line-height: 1.6;
+}
+
+/* Mission grid */
+.mission-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--space-lg);
+}
+
+.mission-item {
+  padding: var(--space-lg);
+}
+
+.mission-item__number {
+  display: block;
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--color-accent);
+  margin-bottom: var(--space-sm);
+}
+
+.mission-item h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: var(--space-sm);
+}
+
+.mission-item p {
+  font-size: 0.9rem;
+}
+
+/* CTA */
+.chi-siamo-cta {
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  padding: var(--space-2xl);
+  text-align: center;
+  border: 1px solid var(--color-border);
+}
+
+.chi-siamo-cta h2 {
+  font-size: 1.5rem;
+  color: var(--color-primary);
+  margin-bottom: var(--space-sm);
+}
+
+.chi-siamo-cta__info {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-2xl);
+  margin-top: var(--space-xl);
+}
+
+.chi-siamo-cta__info strong {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--color-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: var(--space-xs);
+}
+
+.chi-siamo-cta__info p {
+  font-size: 0.95rem;
+}
+
+@media (max-width: 600px) {
+  .chi-siamo-cta__info {
+    flex-direction: column;
+    gap: var(--space-lg);
+  }
+}
