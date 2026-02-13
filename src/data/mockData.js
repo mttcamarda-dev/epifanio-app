@@ -1,13 +1,13 @@
 export const notizie = [
   {
     id: 1,
-    titolo: "Open Day 2026: Vieni a scoprire la nostra scuola!",
+    titolo: "Open Days: Orientando al Ferdinando — A.S. 2026/27",
     sommario:
-      "Sabato 15 marzo le porte dell'Istituto si aprono per accogliere studenti e famiglie. Un'occasione unica per visitare laboratori, aule e conoscere i docenti.",
+      "Tornano gli Open Days dell'I.I.S.S. Epifanio Ferdinando! Sei appuntamenti domenicali per scoprire l'offerta formativa, visitare i laboratori e incontrare docenti e studenti.",
     data: "2026-02-10",
     immagine: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800&q=80",
     contenuto:
-      "L'I.I.S.S. Epifanio Ferdinando di Mesagne è lieto di invitare tutti gli studenti delle scuole medie e le loro famiglie all'Open Day 2026. Durante la giornata sarà possibile visitare i laboratori di informatica, scienze, lingue e le palestre. I docenti e gli studenti guida saranno a disposizione per illustrare l'offerta formativa.",
+      "L'I.I.S.S. Epifanio Ferdinando di Mesagne apre le porte a studenti e famiglie con gli Open Days per l'orientamento in entrata A.S. 2026/27. Sei le date previste, tutte di domenica dalle 10:00 alle 12:30: 23 novembre 2025, 30 novembre 2025, 14 dicembre 2025, 11 gennaio 2026, 18 gennaio 2026 e 25 gennaio 2026.\n\nDurante gli Open Days sarà possibile visitare le sedi dell'istituto — Via Eschilo (Liceo Scientifico e Scienze Applicate), Via Damiano Chiesa (Liceo Coreutico e Tecnico Economico) e Via Grazia Deledda 2 a San Pancrazio Salentino (Tecnico Tecnologico) — e incontrare docenti e studenti che illustreranno i vari percorsi di studio attraverso esperienze vissute e materiali multimediali.\n\nL'offerta formativa comprende: Liceo Scientifico, Liceo Scientifico opzione Scienze Applicate, Liceo Coreutico, Istituto Tecnico Economico (Turismo, AFM/SIA con curvatura sportiva) e Istituto Tecnico Tecnologico.\n\nCome di consueto, l'attività di orientamento è arricchita dai Laboratori Orientanti: \"Scienze in azione\", \"Spieghiamolo con la fisica\" e \"Robotica: pronti a creare il futuro\" per il Liceo Scientifico-Scienze Applicate; \"Metti la vita in ballo\" con laboratori di danza classica e contemporanea per il Liceo Coreutico; e visite guidate nei laboratori di indirizzo per il Tecnico Economico e Tecnologico.\n\nLa partecipazione è libera, ma è consigliabile prenotarsi compilando il modulo online sul sito della scuola. Per informazioni rivolgersi alla Prof.ssa Ermanna Salamanna, Funzione Strumentale per l'orientamento (ermanna.salamanna@iissferdinando.edu.it).",
   },
   {
     id: 2,
