@@ -11,13 +11,13 @@ export const notizie = [
   },
   {
     id: 2,
-    titolo: "Successo per la squadra di debate al torneo regionale",
+    titolo: "Iscrizioni all'IISS E. Ferdinando 2026",
     sommario:
-      "I nostri studenti si sono distinti al torneo regionale di debate, conquistando il secondo posto con argomentazioni brillanti.",
+      "Dal 13 gennaio al 14 febbraio 2026 saranno aperte le iscrizioni alle prime classi per l'anno scolastico 2026/2027 tramite la piattaforma Unica.",
     data: "2026-02-05",
-    immagine: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+    immagine: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=80",
     contenuto:
-      "Grande soddisfazione per il team di debate dell'Epifanio Ferdinando. Al torneo regionale tenutosi a Bari, i nostri ragazzi hanno affrontato avversari di tutta la Puglia, distinguendosi per preparazione e capacità argomentativa.",
+      "Dal 13 gennaio al 14 febbraio 2026 saranno aperte le iscrizioni alle prime classi per l'anno scolastico 2026/2027. Le domande potranno essere presentate online, attraverso la piattaforma Unica. L'accesso alla piattaforma Unica avviene tramite credenziali SPID (Sistema Pubblico di Identità Digitale), CIE (Carta di Identità Elettronica), CNS (Carta Nazionale dei Servizi) o eIDAS (electronic IDentification Authentication and Signature).\n\nIl codice meccanografico della nostra scuola è BRIS01100C.\n\nLa segreteria alunni dell'IISS FERDINANDO sita in via Eschilo a Mesagne è a disposizione dei genitori dal 13 gennaio 2026 nei seguenti giorni:\n• ogni lunedì, mercoledì e venerdì dalle 8.30 alle 11.30\n• ogni martedì e giovedì dalle ore 11.00 alle ore 14.00\n• ogni martedì pomeriggio (mese di gennaio 2026) dalle ore 14.00 alle ore 17.00\n• ogni mercoledì pomeriggio dalle ore 14.00 alle ore 17.00\n\nE nelle domeniche di apertura per gli OPEN DAY:\n• 18 gennaio 2026 dalle ore 10 alle ore 12.30\n• 25 gennaio 2026 dalle ore 10 alle ore 12.30\n• 1 febbraio 2026 dalle ore 10 alle ore 12.30\n• 8 febbraio 2026 dalle ore 10 alle ore 12.30\n\nGli OPEN DAY si svolgeranno in ogni plesso dell'Istituto:\n• Via Eschilo (liceo scientifico), Mesagne\n• Via D. Chiesa (tecnico economico e liceo coreutico), Mesagne\n• Via G. Deledda (tecnico tecnologico), S. Pancrazio S.no",
   },
   {
     id: 3,
