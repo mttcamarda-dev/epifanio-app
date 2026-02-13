@@ -31,13 +31,13 @@ export const notizie = [
   },
   {
     id: 4,
-    titolo: "Progetto Erasmus+: i nostri studenti volano in Spagna",
+    titolo: "Calendario Scolastico A.S. 2025 - 2026",
     sommario:
-      "Quindici studenti selezionati partiranno per un'esperienza formativa a Siviglia nell'ambito del programma Erasmus+.",
+      "Decreto dirigenziale di adattamento del calendario scolastico A.S. 2025/2026 con date di inizio, termine e sospensioni delle attività didattiche.",
     data: "2026-01-15",
-    immagine: "https://images.unsplash.com/photo-1523050854058-8df90110c476?w=800&q=80",
+    immagine: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&q=80",
     contenuto:
-      "L'Epifanio Ferdinando conferma la sua vocazione internazionale con un nuovo progetto Erasmus+. Gli studenti selezionati parteciperanno a workshop su sostenibilità ambientale e innovazione digitale presso l'Instituto de Educación Secundaria di Siviglia.",
+      "DECRETO DIRIGENZIALE - ADATTAMENTO DEL CALENDARIO SCOLASTICO A. S. 2025/2026.\n\nIL DIRIGENTE SCOLASTICO\n\nVISTO il comma 3, art. 74 del D. Lgs. n.297/1994;\nVISTA l'autonomia organizzativa riconosciuta alle scuole dall'art. 5 del D.P.R. 8/03/1999, n.275 e nel rispetto dell'art.74, comma 3, del D. Lgs. n.297/1994 e degli art.3 e 7 del D. Lgs. n.59 del 9/02/2004;\nVISTI gli artt. 3 e 7 del D. Lgs. n.59 del 9/02/2004;\nVISTA la Delibera della Giunta Regionale della Regione Puglia n. 385 del 31/03/2025, avente per oggetto \"Approvazione del calendario scolastico regionale per l'a. s. 2025/26 e dell'iniziativa finalizzata all'ideazione delle relative immagini\";\nVISTA la nota n. 27331 del 14/04/2025, dell'U.S.R. per la Puglia avente ad oggetto \"Calendario Scolastico Regionale anno scolastico 2025/2026 – Trasmissione della Deliberazione di Giunta Regionale di approvazione\";\nVISTA la Delibera n. 208/6 del Collegio dei Docenti nella seduta del 22/05/2025;\nVISTA la Delibera n. 23 del Consiglio d'Istituto nella seduta del 22/05/2025;\n\nDISPONE\n\nl'adattamento del calendario scolastico, come riportato di seguito:\n\n• Inizio attività didattica: 16 settembre 2025\n• Termine attività: 09 giugno 2026\n\nSospensione attività didattica:\n• dal 22 dicembre 2025 al 6 gennaio 2026 (vacanze natalizie)\n• dal 02 al 07 aprile 2026 (vacanze pasquali)\n\nFestività nazionali:\n• 1° novembre 2025 (Ognissanti)\n• 8 dicembre 2025 (Immacolata Concezione)\n• 25 aprile 2026 (Anniversario della Liberazione)\n• 1° maggio 2026 (Festa del lavoro)\n• 2 giugno 2026 (Festa della Repubblica)\n\nFestività riconosciute dalla Regione Puglia:\n• 2 maggio 2026\n• 1° giugno 2026\n\nSospensione attività didattica riconosciuta con delibera del Consiglio di Istituto:\n• Sedi di Mesagne: 16/07/2026\n• Sede di San Pancrazio Salentino: 12/05/2026\n\nIL DIRIGENTE SCOLASTICO\nMario PALMISANO ROMANO",
   },
 ];
 
