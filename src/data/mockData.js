@@ -172,6 +172,14 @@ export const team = [
 export const eventi = [
   {
     id: 1,
+    titolo: "Settimana dello Studente",
+    data: "2026-02-16",
+    ora: "dal 16 al 21 febbraio 2026",
+    luogo: "Tutte le sedi",
+    descrizione: "Una settimana interamente dedicata agli studenti con attività, eventi e momenti di confronto.",
+  },
+  {
+    id: 2,
     titolo: "Notte Bianca del Liceo",
     data: "2026-03-21",
     ora: "18:00 - 23:00",
@@ -179,7 +187,7 @@ export const eventi = [
     descrizione: "Una serata di musica, arte e scienza aperta a tutta la comunità. Esibizioni dal vivo, mostre e laboratori interattivi.",
   },
   {
-    id: 2,
+    id: 3,
     titolo: "Conferenza: Intelligenza Artificiale e Scuola",
     data: "2026-03-05",
     ora: "10:00 - 12:00",
@@ -187,7 +195,7 @@ export const eventi = [
     descrizione: "Un esperto del Politecnico di Bari ci parlerà di come l'IA sta trasformando il mondo dell'istruzione.",
   },
   {
-    id: 3,
+    id: 4,
     titolo: "Torneo di Pallavolo Interclasse",
     data: "2026-03-15",
     ora: "09:00 - 16:00",
