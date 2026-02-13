@@ -5,7 +5,7 @@ export const notizie = [
     sommario:
       "Cinque appuntamenti domenicali per scoprire l'offerta formativa dell'I.I.S.S. Epifanio Ferdinando. Vieni a visitare i laboratori e a conoscere docenti e studenti!",
     data: "2026-02-10",
-    immagine: "/images/open-day-locandina.jpg",
+    immagine: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=800&q=80",
     contenuto:
       "OPEN DAY — SCUOLA APERTA\n\nL'I.I.S.S. Epifanio Ferdinando apre le porte a ragazzi, ragazze e alle loro famiglie! L'Open Day è un giorno in cui le sedi dell'Epifanio Ferdinando aprono le porte e i loro laboratori per far conoscere l'offerta formativa della scuola.\n\n4 INDIRIZZI DI STUDIO:\n• Liceo Scientifico e delle Scienze Applicate\n• Liceo Coreutico\n• Tecnico Economico\n• Tecnico Tecnologico\n\nDATE OPEN DAYS (ore 10:00 – 12:30):\n• Domenica 11 gennaio 2026\n• Domenica 18 gennaio 2026\n• Domenica 25 gennaio 2026\n• Domenica 1 febbraio 2026\n• Domenica 8 febbraio 2026\n\nLE NOSTRE SEDI:\n\n📍 Sede Liceo Scientifico e Scienze Applicate — Via Eschilo, 72023 Mesagne — Tel/Fax 0831 772277 — mariagiovanna.caforio@iissferdinando.edu.it\n\n📍 Sede Liceo Coreutico e Tecnico Economico — Via Damiano Chiesa, 72023 Mesagne — Tel/Fax 0831 738652 — Liceo Coreutico: claudia.cirillo@iissferdinando.edu.it — Tecnico Economico: sabrina.spagnolo@iissferdinando.edu.it\n\n📍 Sede Tecnico Tecnologico (diurno e serale) — Via Grazia Deledda 2, 72026 San Pancrazio Salentino — Tel/Fax 0831 667864 — andrea.mazzotta@iissferdinando.edu.it\n\nPer prenotarsi occorre compilare il Google Form disponibile sul sito della scuola.\n\nDirigente Scolastico: Ing. Mario Palmisano Romano\nwww.iissferdinando.edu.it\n\nUna scuola da vivere insieme!",
   },
